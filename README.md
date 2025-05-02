@@ -35,21 +35,7 @@
    - Build the project to ensure all dependencies are resolved.
    - Run the `LoginPage` class to start the application.
 
-## Screenshots
-
-Here are some screenshots of the application:
-
-- **Login Page**:
-  ![Login Page](https://github.com/zahidrahimoon/Hospital-Management-System/blob/master/Screenshots/login.PNG)
-
-- **Welcome Page**:
-  ![Welcome Page](https://github.com/zahidrahimoon/Hospital-Management-System/blob/master/Screenshots/welcome.PNG)
-
-- **Patient Management**:
-  ![Patient Management](https://github.com/zahidrahimoon/Hospital-Management-System/blob/master/Screenshots/patient.PNG)
-
-- **Doctor Management**:
-  ![Doctor Management](https://github.com/zahidrahimoon/Hospital-Management-System/blob/master/Screenshots/doctor.PNG)
+#
 
 ## Usage
 
@@ -64,13 +50,3 @@ Here are some screenshots of the application:
 3. **Logout**:
    - Click the logout button to return to the login page.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries or issues, please contact:
-
-- **Email**: zahidrahimoon22@gmail.com
-- **LinkedIn**: [Zahid Rahimoon](https://www.linkedin.com/in/zahidrahimoon/)
