@@ -1,8 +1,8 @@
-# Zara Clinic - Hospital Management System
+#Hospital Management System
 
 ## Overview
 
-**Zara Clinic** is a comprehensive Hospital Management System developed using Java Swing for the user interface and MySQL for data management. This application facilitates the management of hospital operations, focusing on the CRUD operations for patients and doctors. It also includes an admin login system for secure access and a logout feature to return to the login page.
+Hospital Management System developed using Java Swing for the user interface and MySQL for data management. This application facilitates the management of hospital operations, focusing on the CRUD operations for patients and doctors. It also includes an admin login system for secure access and a logout feature to return to the login page.
 
 ## Features
 
@@ -14,26 +14,8 @@
 - **Logout**: A logout button for redirecting users back to the login page.
 
 ## Technologies Used
+- **Java Swing**: For building the graphical user interface.- **MySQL**: For managing the database and real-time data handling.- **MySQL Workbench**: For database design and management.
 
-- **Java Swing**: For building the graphical user interface.
-- **MySQL**: For managing the database and real-time data handling.
-- **MySQL Workbench**: For database design and management.
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. **Setup MySQL Database**:
-   - Import the provided SQL schema into MySQL Workbench to create the necessary tables and structure.
-   - Update the database connection details in the `LoginPage` class if needed.
-
-3. **Build and Run the Application**:
-   - Open the project in NetBeans or any IDE that supports Java.
-   - Build the project to ensure all dependencies are resolved.
-   - Run the `LoginPage` class to start the application.
 
 #
 
